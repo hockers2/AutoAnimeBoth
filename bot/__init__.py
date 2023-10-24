@@ -134,7 +134,7 @@ async def notify_about_me():
             [
                 Button.url("Developer 👨‍💻", url="t.me/kaif_00z"),
                 Button.url(
-                    "Source Code 📂", url="https://github.com/kaif-00z/AutoAnimeBot/"
+                    "Source Code 📂", url="www.google.com"
                 ),
             ]
         ]
